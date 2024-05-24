@@ -23,5 +23,5 @@ ARAFAT HEADER : {'User-Agent': '[FBAN/FB4A;FBAV/61.0.0.935;FBBV/6725037;[FBAN/Or
 ARAFAT URL : https://b-graph.facebook.com/auth/login 
 <><><><><><><>CLOSE<><><><><><><> 
 
-""" ALLAH HAFEZ"""
+""" ALLAH HAFEZ """
 
